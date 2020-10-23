@@ -1,2 +1,2 @@
 # learnGit
-test repo
+test repo for git demo
